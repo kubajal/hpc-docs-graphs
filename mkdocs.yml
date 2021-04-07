@@ -1,0 +1,4 @@
+site_name: Dokumentacja warsztatów grafowych
+
+nav:
+- Strona główna: index.md
